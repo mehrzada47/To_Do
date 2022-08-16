@@ -6,3 +6,26 @@ video{
     min-height: 100%;
     z-index: -1;
 }
+body{
+    display: flex;
+    justify-content: center;
+    max-height: 50%;
+    max-width: 100%;
+}
+#search>input.show{
+visibility: visible;
+}
+
+#search{
+  visibility: hidden;
+}
+
+#add>input.show{
+ visibility: visible;
+}
+#add{
+visibility: hidden;
+}
+.bi-trash,.list-group-item>span{
+    cursor: pointer;
+}
