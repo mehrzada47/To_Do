@@ -12,7 +12,7 @@ body{
     max-height: 50%;
     max-width: 100%;
 }
-#search>input.show{
+#search.show{
 visibility: visible;
 }
 
@@ -20,7 +20,7 @@ visibility: visible;
   visibility: hidden;
 }
 
-#add>input.show{
+#add.show{
  visibility: visible;
 }
 #add{
