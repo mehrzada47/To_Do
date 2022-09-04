@@ -29,3 +29,7 @@ visibility: hidden;
 .bi-trash,.list-group-item>span{
     cursor: pointer;
 }
+
+.bi-trash{
+    float: right;
+}
