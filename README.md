@@ -2,4 +2,4 @@ ToDo List App is a kind of app that generally used to maintain our day-to-day ta
 A simple todo list website built in HTML, CSS,bootstrap and JavaScript.
 
 DEMO:
-![To_Do](https://user-images.githubusercontent.com/106739134/188521020-8baae65b-c0b8-4d08-a420-1873dc0d0d75.mp4)
+![gif (2)](https://user-images.githubusercontent.com/106739134/188521753-40eb3699-c06d-4a99-b8eb-4986bbe14845.gif)
